@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import List from './components/List'
 
@@ -35,9 +34,9 @@ onSubmit = (event) => {
     <div>
     <div className="header">
       <div className ="wrapper">
-      <img src = "" />
-      <p className="title">Road To Hire</p>
-      </div>
+      <p className="title">Stay Organized</p>
+      <i className="img" class="fas fa-clipboard-list"></i>
+    </div>
     </div>
     <div className="app">
       <div className="app-wrapper">

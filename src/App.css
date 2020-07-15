@@ -26,6 +26,12 @@ body {
   font-weight: 600;
   margin-left: 15px;
 }
+
+.img{
+
+width: 45px;
+height: 45px;
+}
 .app {
   height: 600px;
   width: 100%;
